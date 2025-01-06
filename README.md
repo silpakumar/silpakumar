@@ -1,6 +1,6 @@
-<h1 align="center">Hey I am Silpa P</h1>
-<h3 align="center">Software Developer</h3>
-
+# 💫 About Me:
+<b>Back-End Developer | Laravel Enthusiast | React Explorer | Bug Hunter</b> <br><br>🖥️ Crafting web solutions with Laravel by day, building interactive experiences with React by night.
+<br><br>⚡️Turning complex problems into sleek, optimized code (and keeping the energy high with zero caffeine). <br><br>🔍Code sleuth at heart → I find and fix bugs faster than I can deploy updates.<br><br>🔧 Whether it’s Laravel powering my back-end or React shaping my front-end, I’m always working to deliver seamless, high-performance applications.<br><br>🚀 Passionate about Laravel and React, but ready to dive into any challenge that requires logic, creativity, and a bit of coding wizardry. <br><br> 💻 Always learning, evolving, and debugging my way to more efficient and innovative solutions.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silpa-p-854343154) 
 
